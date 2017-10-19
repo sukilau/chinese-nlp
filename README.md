@@ -16,18 +16,18 @@
 * Average of 0.99 accuracy on 10-fold CV.
 
 ---
-### Requirements
+#### Requirements
 * [Python 3.6](https://www.python.org/downloads/)
 * Modules: pandas, numpy, scikit-learn, beautifulsoup4, jieba 
 
 To install required modules :
 $ pip install pandas numpy scikit-learn beautifulsoup4 jieba
 
-### Instruction 
+#### Instruction 
 To run python script :
 $ python main.py
----
-### What is in this repo
+
+#### What is in this repo
 
 *main.py*
 * Python script for chinese text classifcation
